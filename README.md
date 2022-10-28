@@ -1,1 +1,3 @@
-# learning_game
+# learning game
+
+A game about learning
